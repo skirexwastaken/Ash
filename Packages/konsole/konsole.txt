@@ -1,0 +1,3 @@
+Package: konsole
+Version: 1.0
+Konsole is the default CLI output system of Ash 1.0

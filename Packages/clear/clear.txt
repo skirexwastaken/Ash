@@ -1,0 +1,3 @@
+Package: clear
+Version: 1.0
+Clear is a simple package that cleans the CLI output.
