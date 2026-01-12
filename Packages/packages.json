@@ -1,9 +1,0 @@
-{
-    "essentials":{
-        "fetch":"fetch",
-        "show":"show",
-        "konsole":"konsole",
-        "clear":"clear",
-        "authme":"authme"
-    }
-}

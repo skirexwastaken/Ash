@@ -1,3 +1,0 @@
-Package: show
-Version: 1.0
-Show is a simple command that displays info about packages.
