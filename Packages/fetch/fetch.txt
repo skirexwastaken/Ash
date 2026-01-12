@@ -1,0 +1,3 @@
+Package: fetch
+Version: 1.0
+Fetch is a simple command that displays info about the system.
